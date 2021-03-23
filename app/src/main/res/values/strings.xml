@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Clase03</string>
+    <string name="model">Modelo</string>
+    <string name="brand">Marca</string>
+    <string name="year">Año</string>
+    <string name="version">Version</string>
+    <string name="brandKia">Kia</string>
+    <string name="modelRio">Rio</string>
+    <string name="carVersion">Rio turbo super</string>
+    <string name="carYear">2021</string>
+
+
+</resources>
